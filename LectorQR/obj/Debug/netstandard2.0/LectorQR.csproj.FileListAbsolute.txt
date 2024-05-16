@@ -1,0 +1,15 @@
+C:\Users\52553\source\repos\LectorQR\LectorQR\LectorQR\bin\Debug\netstandard2.0\LectorQR.deps.json
+C:\Users\52553\source\repos\LectorQR\LectorQR\LectorQR\bin\Debug\netstandard2.0\LectorQR.dll
+C:\Users\52553\source\repos\LectorQR\LectorQR\LectorQR\bin\Debug\netstandard2.0\ref\LectorQR.dll
+C:\Users\52553\source\repos\LectorQR\LectorQR\LectorQR\bin\Debug\netstandard2.0\LectorQR.pdb
+C:\Users\52553\source\repos\LectorQR\LectorQR\LectorQR\obj\Debug\netstandard2.0\LectorQR.csproj.AssemblyReference.cache
+C:\Users\52553\source\repos\LectorQR\LectorQR\LectorQR\obj\Debug\netstandard2.0\LectorQR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52553\source\repos\LectorQR\LectorQR\LectorQR\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\52553\source\repos\LectorQR\LectorQR\LectorQR\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\52553\source\repos\LectorQR\LectorQR\LectorQR\obj\Debug\netstandard2.0\LectorQR.AssemblyInfoInputs.cache
+C:\Users\52553\source\repos\LectorQR\LectorQR\LectorQR\obj\Debug\netstandard2.0\LectorQR.AssemblyInfo.cs
+C:\Users\52553\source\repos\LectorQR\LectorQR\LectorQR\obj\Debug\netstandard2.0\LectorQR.csproj.CoreCompileInputs.cache
+C:\Users\52553\source\repos\LectorQR\LectorQR\LectorQR\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\52553\source\repos\LectorQR\LectorQR\LectorQR\obj\Debug\netstandard2.0\LectorQR.dll
+C:\Users\52553\source\repos\LectorQR\LectorQR\LectorQR\obj\Debug\netstandard2.0\refint\LectorQR.dll
+C:\Users\52553\source\repos\LectorQR\LectorQR\LectorQR\obj\Debug\netstandard2.0\LectorQR.pdb
